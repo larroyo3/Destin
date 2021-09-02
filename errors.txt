@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 34: expected statement.
+    renpy.input("Et toi? Comment t’appelles-tu? Mon nom est :")
+                                                               ^
+
+File "game/script.rpy", line 37: expected statement.
+    renpy.input("Et toi? Comment t’appelles-tu? Mon nom est :")
+                                                               ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Fri May 29 10:42:36 2020

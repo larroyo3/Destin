@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 114, in script
+    jump debut_choix
+ScriptError: could not find label 'debut_choix'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 114, in script
+    jump debut_choix
+  File "/home/larroyo/Epitech/Renpy/renpy/ast.py", line 1697, in execute
+    rv = renpy.game.script.lookup(target)
+  File "/home/larroyo/Epitech/Renpy/renpy/script.py", line 898, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'debut_choix'.
+
+Linux-5.6.13-100.fc30.x86_64-x86_64-with-fedora-30-Thirty
+Ren'Py 7.3.5.606
+DESTIN 1.0
+Thu May 28 12:11:55 2020
