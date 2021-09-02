@@ -6,4 +6,6 @@ Dowload Renpy
 Move this repository in the Renpy folder
 
 ## Usage
-`<addr>` cd renpy
+`cd Renpy`
+`./renpy.sh`
+lunch game
