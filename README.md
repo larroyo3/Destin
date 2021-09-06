@@ -1,5 +1,8 @@
 # Destin
-A small visual novel made in python with Ren'py made in 2019.
+A small visual novel made in python with Ren'py. 
+Made in 2019.
+ 
+Script by Louis Ledoux and Chloé Menigoz
 
 ### Requirement 
 Dowload Renpy
