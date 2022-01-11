@@ -5,8 +5,8 @@ Project completed in 1 day in 2019.
 Script by Louis Ledoux and Chloé Menigoz.
 
 ### Requirement 
-Dowload Renpy
-Move this repository in the Renpy folder
+-Dowload Renpy</br>
+-Move this repository in the Renpy folder
 
 ### Usage
 ```bash
